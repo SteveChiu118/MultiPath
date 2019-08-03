@@ -1,0 +1,9 @@
+!this file contains dynamic traffic parameter
+! traffic grooming: 1 yes , 0 no
+!average arrival rate for possison (at most 200 unit)
+!average exponential holding time (at most 100 time units)
+!max runtime in time unit
+!max traffic flow
+! Qos traffic: 0 no, n >0 Qos class
+! n class Qos, 0.99, 0.999, ... 
+0,40,10,100000,200000,0#
