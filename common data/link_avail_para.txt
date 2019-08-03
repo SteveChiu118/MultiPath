@@ -1,0 +1,7 @@
+0.9
+0.999
+0.9999
+0.99999
+0.999999
+!class, av1, av2, av3,...
+!at most 100 availability link types
